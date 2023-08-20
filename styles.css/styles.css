@@ -1,0 +1,22 @@
+body{
+    background-color: #c9c9c9;
+   }
+   hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+    height: 0px;
+   }
+   h1 {
+    color:#66BF;
+   }
+   h2 {
+    color:rgb(131, 30, 255);
+   }
+   h3 {
+    color:#66BF;
+   }
+ .log{
+   border-radius:50%
+ }
